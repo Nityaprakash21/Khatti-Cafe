@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /private/
+Disallow: /hidden/
+Allow: /
+Sitemap: https://nitiqatech.vercel.app/sitemap.xml
