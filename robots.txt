@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Disallow: /hidden/
 Allow: /
-Sitemap: https://nitiqatech.vercel.app/sitemap.xml
+Sitemap: https://khatti-cafe.vercel.app/sitemap.xml
