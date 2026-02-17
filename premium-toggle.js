@@ -3,8 +3,8 @@
 
 (function () {
   // --- CONFIG ---
-  const qrImgUrl = 'https://khatti-cafe.vercel.app/menu.html';
-  const menuLink = 'menu.html';
+  const qrImgUrl = 'https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://khatti-cafe.vercel.app/menu.html';
+  const menuLink = 'https://khatti-cafe.vercel.app/menu.html';
 
   // --- BUTTON ---
   const btn = document.createElement('button');
@@ -189,4 +189,5 @@
     }
   });
 })();
+
 
