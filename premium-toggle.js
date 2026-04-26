@@ -3,8 +3,8 @@
 
 (function () {
   // --- CONFIG ---
-  const qrImgUrl = 'https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://khatti-cafe.vercel.app/menu.html';
-  const menuLink = 'https://khatti-cafe.vercel.app/menu.html';
+  const qrImgUrl = 'https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://drive.google.com/file/d/1bqOWLWd_YNDyP6wfxSEw7chuJgJhH3ck/view?usp=sharing';
+  const menuLink = 'https://drive.google.com/file/d/1bqOWLWd_YNDyP6wfxSEw7chuJgJhH3ck/view?usp=sharing';
 
   // --- BUTTON ---
   const btn = document.createElement('button');
